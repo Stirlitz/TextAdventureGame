@@ -1,0 +1,210 @@
+-
+-
+-
+-
+-
+Bedroom
+Hallway
+Living Room
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Outside
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Forest Spring
+-
+Outside
+Behind House
+-
+-
+-
+-
+-
+Cottage Closet
+Shortcut
+HellHole
+-
+Cliff
+-
+Shubbery Zone
+-
+East Field
+-
+-
+-
+-
+-
+-
+Cottage Living Room
+-
+Cave 3
+Cave 2
+Cave 1
+Cave 0
+Wooded Area
+North Field
+Center Field
+South Field
+Road 2 Cottage
+Road 2 Cottage
+Road 2 Cottage
+Road 2 Cottage
+Cottage Entrance
+Cottage hallway
+Cottage Kitchen
+-
+Treasure room
+Cliff
+-
+-
+-
+West Field
+-
+-
+-
+-
+-
+-
+Cottage Stairwell
+-
+-
+-
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+-
+Cottage upstairs hallway
+Cottage bedroom
+-
+-
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+-
+Cottage bedroom2
+-
+-
+-
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+-
+-
+-
+-
+-
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+-
+Heros Path 0
+-
+-
+-
+-
+-
+-
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+Forest
+-
+Heros Path 1
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Heros Path 2
+Secret Place
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Heros Path 3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Final Boss
+-
+-
+-
+-
