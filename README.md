@@ -1,7 +1,7 @@
 TextAdventureGame
 =================
 
-title says it all
+Title says it all
 
 - Text Adventure built in Java
 
