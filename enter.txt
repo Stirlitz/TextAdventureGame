@@ -61,7 +61,7 @@ Cottage Living Room: The living room is strange, it looks exactly like the one i
 Cave 3: After continuing along the tunnel for a while, you end up at a 90 degree turn, and the cave continues westward.
 Cave 2: It's a cave, use your imagination, a think there might be a side tunnel to the east, but the tunnel continues onward.
 Cave 1: It's a cave, only not really, because your outside, and you can move in any cardinal direction.
-Cave 0: You enter the dark, spooky, wet, uncomfatable, chilly, moist, creepy, cold damp cave. The tunnel only goes in one direction, north.
+Cave 0: You enter the dark, spooky, wet, uncomfortable, chilly, moist, creepy, cold damp cave. The tunnel only goes in one direction, north.
 Wooded Area: 
 North Field: 
 Center Field: 

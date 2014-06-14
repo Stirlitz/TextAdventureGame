@@ -2,10 +2,12 @@ package adventure;
 
 public class Location {
 	
+	//Constructor
 	public Location(String locationName){
 		name = locationName;
 	}
 
+	//Alt-Constructor that combines both the name and set texts methods
 	public Location(String locationName, String enterText, String lookText, String shortLookText){
 		name = locationName;
 		this.enterText = enterText;
@@ -13,6 +15,7 @@ public class Location {
 		lokTxt = shortLookText;
 	}
 	
+	//used in conjunction with the first Constructor, can also be used to change texts at any time
 	public void setTexts(String enterText, String lookText, String shortLookText){
 		this.enterText = enterText;
 		this.lookText = lookText;
@@ -41,6 +44,8 @@ public class Location {
 	public String shortLookText(){
 		return lokTxt;
 	}
+	
+	//Method variable seperator=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=//
 	
 	private String name;
 	

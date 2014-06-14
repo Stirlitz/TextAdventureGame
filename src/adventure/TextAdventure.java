@@ -115,15 +115,16 @@ public class TextAdventure {
 	
 	//This method creates all the items in the game
 	public static void makeGame(){
-		//Link some variables to their files, these files are where the tect is stored
+		//Creates the map, and fills it with the locations
+		//Link some variables to their files, these files are where the text is stored
 		File name = new File("name.txt");
 		File enter = new File("enter.txt");
 		File look = new File("look.txt");
 		File shortLook = new File("shortLook.txt");
 		
-		//Dunno, eclipse wanted me to put this here, and it works so yah, i guess its just an error handeling thing
+		//Dunno, eclipse wanted me to put this here, and it works so yah, I guess its just an error handling thing
 		try {
-			//Make scanners that are scanning through thier repective text files
+			//Make scanners that are scanning through their respective text files
 			Scanner scName = new Scanner(name);
 			Scanner scEnter = new Scanner(enter);
 			Scanner scLook = new Scanner(look);
@@ -171,7 +172,7 @@ public class TextAdventure {
 	//Self Explanitory
 	private static boolean inRoom = true;
 	
-	//These are the x & y values of the users location, defaults to
+	//These are the x & y values of the users location, defaults to 5,0 (The bedroom)
 	private static int x = 5;
 	private static int y = 0;
 }
