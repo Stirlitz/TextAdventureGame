@@ -41,13 +41,13 @@ Behind House: You walk around to the back of the house, there is nothing of inte
 -
 -
 -
-Cottage Closet
-Shortcut
-HellHole: You walk through the cave untill you happen upon a large opening. It's a dead end, but you walk in anyways, you take one step into the cave, and the ground opens up, hot air blasts up!
+Cottage Closet:
+Shortcut:
+HellHole: You walk through the cave until you happen upon a large opening. It's a dead end, but you walk in anyways, you take one step into the cave, and the ground opens up, hot air blasts up!
 -
 Cliff: You walk up to the cliff, there doesn't seem to be much here, perhaps you should consider going back from whence you came?
 -
-Shubbery Zone: You walk into a forest clearing, the trees are sparse, but the ground is arranged into a strange, but neat shubbery arrangement. It does seem like you can continue to the west.
+Shrubbery Zone: You walk into a forest clearing, the trees are sparse, but the ground is arranged into a strange, but neat shrubbery arrangement. It does seem like you can continue to the west.
 -
 East Field: The field continues in all directions as far as the eye can see, but you can see a strange arrangement of stones to the east
 -
@@ -62,133 +62,103 @@ Cave 3: After continuing along the tunnel for a while, you end up at a 90 degree
 Cave 2: It's a cave, use your imagination, a think there might be a side tunnel to the east, but the tunnel continues onward.
 Cave 1: It's a cave, only not really, because your outside, and you can move in any cardinal direction.
 Cave 0: You enter the dark, spooky, wet, uncomfortable, chilly, moist, creepy, cold damp cave. The tunnel only goes in one direction, north.
-Wooded Area: 
-North Field: 
-Center Field: 
-South Field: 
-Road 2 Cottage: 
-Road 2 Cottage: 
-Road 2 Cottage: 
-Road 2 Cottage: 
+Wooded Area: You walk into a dense, but suprisingly small wooded area until you come upon a clearing. To the west is a break in the dense trees, and it seems you can go north towards what appears to be a cave in the cliff.
+North Field: You walk into the northern part of the field, it's like the rest of the field, but a tiny fraction of a degree colder. North is a really small wooded area, to the south is an odd rock formation.
+Center Field: It's the center of the massive field, the field stretches in every direction, just about 50 feet away is that odd rock structure. You can move in any direction.
+South Field: You walk into the southern part of the field, it's like the rest of the field, but a tiny fraction of a degree warmer. North is an odd rock formation, to the south is an odd rock formation. To the south really far in the distance you can see another house.
+Road 2 Cottage: It's an old paved road, south is towards the cottage, north is towards field. The field is really close.
+Road 2 Cottage: It's an old paved road, south is towards the cottage, north is towards field. 
+Road 2 Cottage: It's an old paved road, south is towards the cottage, north is towards field.
+Road 2 Cottage: It's an old paved road, south is towards the cottage, north is towards field. You can see the cottage house quite well now, but it's still a ways away.
 Cottage Entrance: 
 Cottage hallway: 
 Cottage Kitchen: 
 -
-Treasure room
-Cliff
+Treasure room:
+Cliff:
 -
 -
 -
-West Field
+West Field:
 -
 -
 -
 -
 -
 -
-Cottage Stairwell
+Cottage Stairwell:
 -
 -
 -
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
 -
-Cottage upstairs hallway
-Cottage bedroom
+Cottage upstairs hallway:
+Cottage bedroom:
 -
 -
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
 -
 Cottage bedroom2
 -
 -
 -
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
 -
 -
 -
 -
 -
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
 -
-Heros Path 0
--
--
--
--
--
--
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
-Forest
--
-Heros Path 1
+Heros Path 0:
 -
 -
 -
 -
 -
 -
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
+Forest: You enter a part of an extremely dense forest, unnaturally so, so dense, you lose all sense of direction!
 -
--
--
--
--
--
--
--
-Heros Path 2
-Secret Place
--
--
--
--
--
--
--
--
--
--
--
--
--
-Heros Path 3
+Heros Path 1:
 -
 -
 -
@@ -203,7 +173,37 @@ Heros Path 3
 -
 -
 -
-Final Boss
+Heros Path 2:
+Secret Place:
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Heros Path 3:
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Final Boss: Oh crap, it's the boss... I Hope you have a weapon!
 -
 -
 -
