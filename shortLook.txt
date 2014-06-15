@@ -3,7 +3,7 @@
 -
 -
 -
-Bedroom: It's a smelly, gross, emptied out bedroom, with what can barely be called a bed
+Bedroom: It's a smelly, gross, emptied out bedroom, with what can barely be called a bed.
 Hallway: 
 Living Room
 -
@@ -203,7 +203,7 @@ Heros Path 3
 -
 -
 -
-Final Boss
+Final Boss: Big, scary Boss
 -
 -
 -
