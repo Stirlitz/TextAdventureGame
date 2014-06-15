@@ -21,7 +21,7 @@ public class TextAdventure {
 		currentLocation = location[x][y];
 		
 		//Print out some instruction text so that the players know what to do
-		System.out.println("INSTRUCTIONAL TEXT: Um, type in stuff, computer will do stuff");
+		System.out.println("INSTRUCTIONAL TEXT: \n- Use the FULL NAME LOWERCASE of the cardianl directions (North, east etc.) to move.\n- type in \"look\" to get a more detailed description.\n- Type in \"look at [noun]\" to get a description of [noun]\n- For other actions just try to uase english and common sense\n type in \"help\" for more info");
 		
 		//Pause code here, to give them time to read
 		while (0 != 1){
@@ -86,6 +86,8 @@ public class TextAdventure {
 			System.out.println(currentLocation.lookText());
 		else if(command.contains("look") && command.contains("at"))
 			System.out.println();
+		else if(command.contains("where"))
+			System.out.println(currentLocation.enterText());
 		else if(command.contains("grab") || command.contains("take"))
 			System.out.println();
 		else if(command.contains("eat")){
