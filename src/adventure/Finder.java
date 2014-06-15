@@ -13,7 +13,7 @@ public class Finder {
 	}
 	
 	//This method will look through a sentence and return the first accepted word. This is to be used to find nouns, verbs and stuff in a command.
-	public static String findWord(String sentance){
+	public String findWord(String sentance){
 		
 		//Set oops (returned if nothing is found) to null
 		String oops = null;
@@ -28,7 +28,7 @@ public class Finder {
 	}
 
 	//This method reads through the accepted word dictionary list and sets up the array and such
-	private static void dictionary(){
+	private void dictionary(){
 		
 		//find the file
 		File dic = new File("dictionary");
@@ -59,9 +59,9 @@ public class Finder {
 		
 	}
 	
-	private static String words[][] = new String[10][4];
+	private String words[][] = new String[10][4];
 	
-	private static boolean foundWord;
+	private boolean foundWord;
 	
-	private static int type; //Types ae as follows: 1 = Noun; 2 = item; 3 = object; 4 = Person;
+	private int type; //Types ae as follows: 1 = Noun; 2 = item; 3 = object; 4 = Person;
 }

@@ -16,15 +16,26 @@ public class Inventory {
 		return false;
 	}
 	
-	public boolean placeItem(Item placeingItem){
+	public void reportInventory(){
+		String list = "";
 		for(int count = 0; count < inv.length; count++){
-			if(!(inv[count] != null)){
-				inv[count] = placeingItem;
-				return true;
-			}
+			if(inv[count] != null)
+				list += "[" + inv[count].name() + "] ";
+			else
+				list += "[EMPTY] ";
 		}
-		return false;
+		System.out.println(list);
 	}
 	
-	private static Item inv[];
+	public void placeItem(Item placeingItem){
+		boolean places = false;
+		for(int count = 0; count < inv.length; count++){
+			if((inv[count] == null) && (places == false)){
+				inv[count] = placeingItem;
+				places = true;
+			}
+		}
+	}
+	
+	private Item inv[];
 }

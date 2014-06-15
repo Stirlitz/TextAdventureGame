@@ -91,16 +91,19 @@ public class TextAdventure {
 		else if(command.contains("grab") || command.contains("take"))
 			System.out.println();
 		else if(command.contains("eat")){
+			//String noms = finder
 			
-			if(Item.type().equals("food"))
+			//if(noms != false && noms.type().equals("food"))
 				System.out.print("This is just here to make compilier hapy :P");
 				//Item.effect();
-			else
+			//else
 				System.out.print("This is just here to make compilier hapy :P");
 				//Death.Chokeing();
 		}
 		
 		//Miscellaneous commands and Stuff like that
+		else if (command.contains("inventory"))
+			mainInv.reportInventory();
 		else if(command.contains("help"))
 			System.out.println("This is help, it will eventually include stuff that may actually be helpful\n Quicktip: Don't use capitals");
 		else
@@ -160,7 +163,14 @@ public class TextAdventure {
 		} catch (FileNotFoundException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
-		}		
+		}
+		
+		//Create item Red Shirt
+		Item shirt = new Item("Red Shirt", "clothing");
+		mainInv.placeItem(shirt);
+		
+		Item sword = new Item("Crappy Sword", "Weapon");
+		mainInv.placeItem(sword);
 	}
 	
 	//=-=-=-=-=-=-=-=-=-=-=-=-=-=THIS LINE IS JUST TO SEPERATE METHODS FROM VARIABLES AND SHOULD BE IGNORED =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=//
@@ -177,4 +187,7 @@ public class TextAdventure {
 	//These are the x & y values of the users location, defaults to 5,0 (The bedroom)
 	private static int x = 5;
 	private static int y = 0;
+	
+	//Create Inventory
+	private static Inventory mainInv = new Inventory(10);
 }

@@ -2,26 +2,27 @@ package adventure;
 
 public class Item {
 	
-	public Item(String nameOfItem, String itemType, int itemID){
+	public Item(String nameOfItem, String itemType/*, int itemID*/){
 		name = nameOfItem;
 		type = itemType;
-		id = itemID;
+		//id = itemID;
 		
 	}
 	
-	public static String type(){
+	public String type(){
 		return type;
 	}
 	
-	public static String name(){
+	public String name(){
 		return name;
 	}
 	
-	public static int itemID(){
-		return id;
-	}
-	private static String name;
-	private static String type;
-	private static int id;
+	//public static int itemID(){
+	//	return id;
+	//}
+	
+	private String name;
+	private String type;
+	//private static int id;
 	
 }
