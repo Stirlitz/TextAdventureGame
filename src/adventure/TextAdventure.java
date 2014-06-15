@@ -90,10 +90,13 @@ public class TextAdventure {
 			System.out.println(currentLocation.enterText());
 		else if(command.contains("grab") || command.contains("take"))
 			System.out.println();
+		else if(command.contains("place") || command.contains("drop"))
+			System.out.println();
 		else if(command.contains("eat")){
-			//String noms = finder
+			//Finder food = new Finder(2);
+			//Item noms = food.findWord(command);
 			
-			//if(noms != false && noms.type().equals("food"))
+			//if(noms != null && noms.type().equals("food"))
 				System.out.print("This is just here to make compilier hapy :P");
 				//Item.effect();
 			//else
@@ -105,7 +108,7 @@ public class TextAdventure {
 		else if (command.contains("inventory"))
 			mainInv.reportInventory();
 		else if(command.contains("help"))
-			System.out.println("This is help, it will eventually include stuff that may actually be helpful\n Quicktip: Don't use capitals");
+			System.out.println("This is help, it will eventually include stuff that may actually be helpful\n Quicktips: 1.Don't use capitals, 2.Keep things too two word commands");
 		else
 			System.out.println("I don't know what you are saying? Try typing in help to get Help (DUH)");
 	}
@@ -169,7 +172,7 @@ public class TextAdventure {
 		Item shirt = new Item("Red Shirt", "clothing");
 		mainInv.placeItem(shirt);
 		
-		Item sword = new Item("Crappy Sword", "Weapon");
+		Item sword = new Item("Crappy Knife", "Weapon");
 		mainInv.placeItem(sword);
 	}
 	
