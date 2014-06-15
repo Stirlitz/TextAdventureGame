@@ -21,7 +21,7 @@ public class TextAdventure {
 		currentLocation = location[x][y];
 		
 		//Print out some instruction text so that the players know what to do
-		System.out.println("INSTRUCTIONAL TEXT: \n- Use the FULL NAME LOWERCASE of the cardinal directions (North, east etc.) to move.\n- Type in \"look\" to get a more detailed description.\n- Type in \"look at [noun]\" to get a description of [noun]\n- For other actions just try to uase english and common sense\nType in \"help\" for more info");
+		System.out.println("INSTRUCTIONAL TEXT: \n- Use the FULL NAME LOWERCASE of the cardinal directions (North, east etc.) to move.\n- Type in \"look\" to get a more detailed description.\n- Type in \"look at [noun]\" to get a description of [noun]\n- For other actions just try to use english and common sense\nType in \"help\" for more info");
 		
 		//Pause code here, to give them time to read
 		while (0 != 1){
@@ -97,10 +97,10 @@ public class TextAdventure {
 			//Item noms = food.findWord(command);
 			
 			//if(noms != null && noms.type().equals("food"))
-				System.out.print("This is just here to make compilier hapy :P");
+				System.out.print("This is just here to make compilier happy :P");
 				//Item.effect();
 			//else
-				System.out.print("This is just here to make compilier hapy :P");
+				System.out.print("This is just here to make compilier happy :P");
 				//Death.Chokeing();
 		}
 		
